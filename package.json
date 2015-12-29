@@ -1,11 +1,13 @@
 {
   "name": "sixty-six-hero",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "alanbuchanan",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": ["football", "soccer", "england", "1966", "world cup"],
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/alanbuchanan/sixty-six-hero"
+  },
 }
